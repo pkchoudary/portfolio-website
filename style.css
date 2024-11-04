@@ -207,3 +207,21 @@ h2 {
 .contact button:hover {
     background: #005f99;
 }
+
+.email-button {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background-color: #007acc;
+    color: #0f0f0f;
+    text-decoration: none;
+    font-size: 1rem;
+    border-radius: 5px;
+    font-weight: bold;
+    text-align: center;
+    transition: background 0.3s;
+}
+
+.email-button:hover {
+    background-color: #e9ebec;
+}
+
